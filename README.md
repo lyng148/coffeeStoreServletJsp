@@ -26,7 +26,7 @@ CSM là một Website được xây dựng bằng Java Servlet và JSP. Được
 
 1. Sao chép repository:
    ```sh
-   https://github.com/nqa12901/CafeStore.git
+   https://github.com/lyng148/coffeeStoreServletJsp.git
    cd CafeStore
 2. Cài đặt dependency
     ```sh
